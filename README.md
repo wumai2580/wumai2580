@@ -15,20 +15,63 @@
 
 ---
 
-## 🚀 关于我
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 关于我
 
-```yaml
-name: 羽缶 / GriefRedd
-location: China 🇨🇳
-role: Developer & Reverse Engineer
-interests:
-  - 🔧 Android 系统开发
-  - 🦀 Rust 底层开发
-  - 📱 手机刷机工具
-  - 🔓 逆向工程
-currently_working_on: fastboot-rs (Rust 实现的 Fastboot 工具)
-contact: 207782593@qq.com
+<div align="center">
+
+<!-- 动态终端效果 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=150&lines=%24+whoami;%E7%BE%BD%E7%BC%B6+%2F+GriefRedd;%24+cat+skills.txt;Rust+%7C+Python+%7C+Linux+Kernel;%24+echo+%24FOCUS;Android+%26+%E5%BA%95%E5%B1%82%E5%BC%80%E5%8F%91" />
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```rust
+// 🦀 developer.rs
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    code: Vec<&'static str>,
+    focus: Vec<&'static str>,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "羽缶 / GriefRedd",
+            role: "System Developer",
+            code: vec!["Rust", "Python"],
+            focus: vec![
+                "Linux Kernel",
+                "Android System",
+                "Reverse Engineering",
+                "Fastboot Tools",
+            ],
+        }
+    }
+}
 ```
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- 动态标签 -->
+![](https://img.shields.io/badge/🔧_专注-底层系统开发-00D9FF?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🦀_主力-Rust-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/🐧_深耕-Linux_Kernel-FCC624?style=for-the-badge&labelColor=0D1117)
+![](https://img.shields.io/badge/📱_擅长-Android_刷机-3DDC84?style=for-the-badge&labelColor=0D1117)
+
+</div>
 
 ---
 
@@ -38,13 +81,11 @@ contact: 207782593@qq.com
 
 <!-- 编程语言 -->
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<!-- 工具和平台 -->
+<!-- 系统和平台 -->
+![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
