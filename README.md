@@ -115,36 +115,6 @@ impl Developer {
 
 ---
 
-## 🐍 贡献蛇吃图
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub 奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wumai2580&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
-</div>
-
----
-
-## 📌 精选项目
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wumai2580&repo=fastboot-rs&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/wumai2580/fastboot-rs)
-
-</div>
-
----
-
 <div align="center">
 
 <!-- 底部波浪 -->
