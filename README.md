@@ -1,11 +1,15 @@
 <div align="center">
-  
-# 👋 你好，我是羽缶 (GriefRedd)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%A4%96;Tech+Enthusiast+%F0%9F%93%B1;Code+Lover+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- 动态打字效果 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%E7%BE%BD%E7%BC%B6+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/wumai2580?style=social)](https://github.com/wumai2580)
-[![GitHub stars](https://img.shields.io/github/stars/wumai2580?style=social)](https://github.com/wumai2580)
+<!-- 头像波浪动画 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GriefRedd&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<!-- 社交徽章 -->
+[![GitHub followers](https://img.shields.io/github/followers/wumai2580?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba)](https://github.com/wumai2580)
+[![GitHub Stars](https://img.shields.io/github/stars/wumai2580?style=for-the-badge&logo=github&color=yellow&labelColor=orange)](https://github.com/wumai2580)
+![Profile Views](https://komarev.com/ghpvc/?username=wumai2580&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -13,101 +17,101 @@
 
 ## 🚀 关于我
 
-- 🔭 专注于 **Android 原生开发** 和 **Kotlin**
-- 🌱 持续探索 **Jetpack Compose**、**MVVM** 架构和最新的 Android 技术
-- 💡 热衷于折腾各种科技产品和开源工具
-- 🎮 业余时间喜欢研究新奇的软硬件
-- 🌐 相信技术改变生活
+```yaml
+name: 羽缶 / GriefRedd
+location: China 🇨🇳
+role: Developer & Reverse Engineer
+interests:
+  - 🔧 Android 系统开发
+  - 🦀 Rust 底层开发
+  - 📱 手机刷机工具
+  - 🔓 逆向工程
+currently_working_on: fastboot-rs (Rust 实现的 Fastboot 工具)
+contact: 207782593@qq.com
+```
 
-## 🎵 Spotify 正在播放
-
-<div align="center">
-
-[![Spotify](https://novatorem-wumai2580.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
-> 💡 **设置说明**：要启用 Spotify 正在播放功能，你需要：
-> 1. Fork [novatorem](https://github.com/novatorem/novatorem) 项目
-> 2. 在 Vercel 部署并配置 Spotify API
-> 3. 替换上面的链接为你的部署地址
+---
 
 ## 🛠️ 技术栈
 
-### 移动开发
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack](https://img.shields.io/badge/Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
+<div align="center">
 
-### 工具与框架
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 其他技能
+<!-- 编程语言 -->
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<!-- 工具和平台 -->
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 
 ## 📊 GitHub 统计
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wumai2580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wumai2580&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wumai2580&theme=tokyonight&hide_border=true)
+<!-- GitHub 统计卡片 -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wumai2580&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wumai2580&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
-## 🎯 最近在做
-
-- 📱 开发基于 Jetpack Compose 的 Android 应用
-- 🔧 优化现有项目的性能和用户体验
-- 📚 学习 Kotlin Multiplatform 跨平台开发
-- 🎨 探索 Material Design 3 设计规范
-
-## 🏆 成就徽章
-
+<!-- GitHub 活动图 -->
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=wumai2580&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/wumai2580)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wumai2580&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 </div>
 
-## 📫 联系我
+<!-- GitHub 连续贡献 -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wumai2580&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+---
+
+## 🐍 贡献蛇吃图
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/wumai2580/wumai2580/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 🏆 GitHub 奖杯
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wumai2580&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+</div>
+
+---
+
+## 📌 精选项目
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-207782593@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:207782593@qq.com)
-[![QQ](https://img.shields.io/badge/QQ-207782593-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=YOUR_QQ_KEY)
-[![WeChat](https://img.shields.io/badge/WeChat-AN207782593-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wumai2580&repo=fastboot-rs&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/wumai2580/fastboot-rs)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 每日一言
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- 底部波浪 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-### 👀 访客统计
+<!-- 访问计数 -->
+<img src="https://profile-counter.glitch.me/wumai2580/count.svg" />
 
-![](https://komarev.com/ghpvc/?username=wumai2580&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  
-**⭐ 如果你喜欢我的项目，欢迎 Star 支持！**
-
-*"代码改变世界，创意点亮生活"* 💻✨
+**感谢访问！欢迎 Star ⭐ 和 Follow 👋**
 
 </div>
