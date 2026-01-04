@@ -93,6 +93,16 @@ impl Developer {
 
 ---
 
+## � 精i选项目
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wumai2580&repo=fastboot-rs&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/wumai2580/fastboot-rs)
+
+</div>
+
+---
+
 ## 📊 GitHub 统计
 
 <div align="center">
